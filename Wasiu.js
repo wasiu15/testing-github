@@ -1,6 +1,7 @@
 function myDetails() {
     var name = "[Abiola Wasiu]";
     var id = "[HNG-06788]";
+    // TESTING GIT HUB
     var language = "[Javascript]";
     var email = "crownprincewadas@gmail.com"
 
